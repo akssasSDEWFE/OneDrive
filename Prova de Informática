@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Prova de Informática</title>
+</head>
+<body>
+Exercício 1
+<ul>
+		
+    </ol>
+	<nav>
+		<li>
+			<a href="https//google.com/" target="_blank">google</a>
+			<li>
+			<a href="https://g1.globo.com/" target="_blank">G1</a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/" target="_blank">Youtube</a>
+		</li>
+	</nav>
+</ul>
+<hr>
+
+Exercício 2
+<ol start="1000" type="I">
+	
+		<li>café</li>
+		<li>leite</li>
+		<li>chá</li>
+ 		<li>Doce</li>
+ 		<li>Salgado</li>
+ 		<li>Bolo</li>
+	</ol>
+	<hr>
+	Exercício 3
+	<figure>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/255px-Flag_of_Mozambique.svg.png" height="200px" width="200px" title="Moçambique" alt="Foto da bandeira do país africano de Moçambique"  style="color: blue;">
+            <figcaption style="color:blue"> Bandeira de Moçambique</figcaption>
+
+		</figure>
+		<hr>
+		Exercício 4
+
+		  <p style="color: blue; text-align: right; font-weight: bold; background-color: red; font-style: italic; font-weight"24px>To you... yes, my love to you
+Yes my love to you you, to you
+私は私 貴方は貴方と
+昨夜言ってた そんな気もするわ
+グレイのジャケットに
+見覚えがある コーヒーのしみ
+相変らずなのね
+ショーウィンドウに 二人映れば
+Stay with me...
+真夜中のドアをたたき
+帰らないでと泣いた
+あの季節が 今 目の前
+Stay with me...
+口ぐせを言いながら
+二人の瞬間を抱いて
+まだ忘れず 大事にしていた
+恋と愛とは 違うものだよと
+昨夜言われた そんな気もするわ
+二度目の冬が来て
+離れていった貴方の心
+ふり返ればいつも
+そこに 貴方を感じていたの
+Stay with me...
+真夜中のドアをたたき
+心に穴があいた
+あの季節が 今 目の前
+Stay with me...
+淋しさまぎらわして
+置いたレコードの針
+同じメロディ 繰り返していた...
+Stay with me...
+真夜中のドアをたたき
+帰らないでと泣いた
+あの季節が 今 目の前
+Stay with me...
+口ぐせを言いながら
+二人の瞬間を抱いて
+まだ忘れず 暖めてた
+Stay with me...
+真夜中のドアをたたき
+帰らないでと泣いた
+あの季節が 今 目の前
+Stay with me... </p>
+
+<hr>
+Exercício 5
+<table style="border: solid; border-width: 2px;">
+   <thead>
+   
+   <tr>
+       <th>Nome</th>
+       <th>Jan</th>
+       <th>Fev</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+       <td>Jonathan</td>
+       <td>10</td>
+       <td>10</td>
+   </tr>
+   <tr>
+       <td>Carlos</td>
+       <td>35</td>
+       <td>12</td>
+   </tr>
+
+   <tr>
+       <td>Juliano</td>
+       <td>9</td>
+       <td>25</td>
+   </tr>
+
+</tbody>
+</table>
+</body>
+</html>
