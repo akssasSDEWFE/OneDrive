@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+<h1 style="background-color: green; text-align:center ; color: red; ">Atividade</h1>
+<ul>
+		<li style="color: orange;"> <strong>laranja</strong> </li>
+		<li style="color: purple;"> <i> roxo </i> </li>
+		<li style="color: blue;"> <u> azul </u> </li>
+		<li style="color: pink; font-size: 24px">Rosa</li>
+	</ul>
+	<p style="color:blue;font-size: 36px; text-align: right;">To you... yes, my love to you
+Yes my love to you you, to you
+私は私 貴方は貴方と
+昨夜言ってた そんな気もするわ
+グレイのジャケットに
+見覚えがある コーヒーのしみ
+相変らずなのね
+ショーウィンドウに 二人映れば
+Stay with me...
+真夜中のドアをたたき
+帰らないでと泣いた
+あの季節が 今 目の前
+Stay with me...
+口ぐせを言いながら
+二人の瞬間を抱いて
+まだ忘れず 大事にしていた</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/255px-Flag_of_Mozambique.svg.png">
+</body>
+</html>
