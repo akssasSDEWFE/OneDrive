@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Aula7</title>
+</head>
+<body>
+	<h1 style="background-color: pink; text-align:center ; ">Aula 7</h1>
+    <hr>
+    <p style="font-size:22px ;"> Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago. Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity.Settled life emerged on the subcontinent in the western margins of the Indus river basin 9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third millennium BCE. By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, had diffused into India from the northwest, unfolding as the language of the Rigveda, and recording the dawning of Hinduism in India. The Dravidian languages of India were supplanted in the northern and western regions. By 400 BCE, stratification and exclusion by caste had emerged within Hinduism, and Buddhism and Jainism had arisen, proclaiming social orders unlinked to heredity. Early political consolidations gave rise to the loose-knit Maurya and Gupta Empires based in the Ganges Basin.Their collective era was suffused with wide-ranging creativity,but also marked by the declining status of women, and the incorporation of untouchability into an organised system of belief. In South India, the Middle kingdoms exported Dravidian-languages scripts and religious cultures to the kingdoms of Southeast Asia.</p>
+    <hr>
+    <p style="color: red; text-align: right; font-weight: bold;">To you... yes, my love to you
+Yes my love to you you, to you
+私は私 貴方は貴方と
+昨夜言ってた そんな気もするわ
+グレイのジャケットに
+見覚えがある コーヒーのしみ
+相変らずなのね
+ショーウィンドウに 二人映れば
+Stay with me...
+真夜中のドアをたたき
+帰らないでと泣いた
+あの季節が 今 目の前
+Stay with me...
+口ぐせを言いながら
+二人の瞬間を抱いて
+まだ忘れず 大事にしていた
+恋と愛とは 違うものだよと
+昨夜言われた そんな気もするわ
+二度目の冬が来て
+離れていった貴方の心
+ふり返ればいつも
+そこに 貴方を感じていたの
+Stay with me...
+真夜中のドアをたたき
+心に穴があいた
+あの季節が 今 目の前
+Stay with me...
+淋しさまぎらわして
+置いたレコードの針
+同じメロディ 繰り返していた...
+Stay with me...
+真夜中のドアをたたき
+帰らないでと泣いた
+あの季節が 今 目の前
+Stay with me...
+口ぐせを言いながら
+二人の瞬間を抱いて
+まだ忘れず 暖めてた
+Stay with me...
+真夜中のドアをたたき
+帰らないでと泣いた
+あの季節が 今 目の前
+Stay with me... </p>
+<hr>
+<strong> Negrito Forte ui ui</strong>
+<br>
+<b> bold Negrito hi hi hi</b>
+<br>
+<i>Napolitano?????</i>
+<br>
+<u>Sublinhado ulala</u>
+<hr>
+<img alt="Texto Alternativo">
+<hr>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/255px-Flag_of_Mozambique.svg.png" height="150px" alt="Texto Alternativo 2" title=" Bandeira de Moçambique, tres faixas coloridas dispostas horizontalmente com um triangulo vermehlo com a imagem de uma metralhadora e de uma enchada cruzadas sob um livro ">
+</body>
+</html>
