@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Formulário</title>
+</head>
+<body>
+
+	<form>
+
+				<label>Nome:</label>
+				<input type="Texto" name="Nome" id="Nome"><br>
+
+
+				<label>CEP:</label>
+				<input type="text" name="CEP" id:Nome>
+
+				<label>Idade:</label>
+				<input type="number" name="Idade" id:Idade>
+
+			
+		
+			<label>Genero:</label>
+			<label>
+				
+				<input type="radio" name="Genero" value="Masculino"> Masculino
+				<input type="radio" name="Genero" value="Feminino"> Feminino
+
+
+			</label>
+		
+			<br>
+			<label>Endereço:</label>
+			<textarea rows="6" style="width: 26" id="Endereço" name="Endereço"></textarea>
+		
+			<br>
+			<label>Biografia:</label>
+			<textarea rows="6" style="width: 26" id="Biografia" name="Biografia"></textarea>
+		
+		<button type="submit"> Enviar</button>
+	</form>
+
+</body>
+</html>
