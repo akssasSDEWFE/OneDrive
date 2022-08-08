@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Logotipos</title>
+</head>
+<body>
+	<figure><img src="Logotipo.jpg">
+		<figcaption>Logotipo de Pizzaria</figcaption>
+	</figure>
+	<video width="100px" controls>
+		<source src="img/Videozin.mp4" type="video/mp4">
+		</video>
+</body>
+</html>
