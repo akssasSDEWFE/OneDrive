@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>4 town</title>
+</head>
+<body>
+    <h1>Gabriele</h1>
+    <ul>
+    	<li>
+    		<a href="https:google.com"target="_blank">google</a>
+    	</li>
+    	</ul>
+    	<ol>
+    		<li>
+    			<a href="tóquio.html" target="_self">Site interno</a>
+    		</li>
+    	</ol>
+</body>
+</html>
